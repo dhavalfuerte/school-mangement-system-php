@@ -1,0 +1,26 @@
+ul li{
+	
+		display:inline-block;
+		position:relative;
+		text-align:center;
+	 }
+ul li a{
+				display:box-shadow;
+				padding:4px 25px;
+				color:black;
+				text-decoration:none;
+		}
+		
+ul li a:hover{
+			text-decoration:none;
+			color:black;
+			background-color:#408080;
+			}
+
+body ,font ,td,tr{
+	font-family: Comic Sans MS;
+	font-style: Bold;
+	text-decoration:none;
+	
+}
+
